@@ -12,4 +12,6 @@
 - Anaconda
 - JuyterLab
 - Git Hub
-###
+### Explicaiòn data
+Marra2014_data.fasta: usado para la pregunta 5
+Buzzard2015_data.fasta se lo uso para la pregunta 4
