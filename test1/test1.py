@@ -1,2 +1,1 @@
 echo "Hola GBI6"
-
